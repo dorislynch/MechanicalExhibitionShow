@@ -1,0 +1,6 @@
+framework module Pods_RNMechanicalExhibitionShow {
+  umbrella header "Pods-RNMechanicalExhibitionShow-umbrella.h"
+
+  export *
+  module * { export * }
+}
